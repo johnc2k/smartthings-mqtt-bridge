@@ -1,4 +1,4 @@
-FROM johnc2k/rpi-node:4
+FROM node:4
 MAINTAINER St. John Johnson <st.john.johnson@gmail.com> and Jeremiah Wuenschel <jeremiah.wuenschel@gmail.com>
 
 RUN [ "cross-build-start" ]
